@@ -76,7 +76,7 @@ export function PrepareModal({ job, open, onClose }: PrepareModalProps) {
     <Dialog open={open} onOpenChange={onClose}>
       <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto">
         <DialogHeader>
-          <DialogTitle className="text-3xl">Welcome to HireCraft</DialogTitle>
+          <DialogTitle className="text-3xl">Welcome to CareerLens</DialogTitle>
           <DialogDescription className="text-base pt-2">
             To get started, enter information about the type of job you are wanting
             to apply for. This can be specific information copied directly from a

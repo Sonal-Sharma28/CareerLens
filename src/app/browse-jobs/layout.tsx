@@ -13,7 +13,7 @@ export default function BrowseJobsLayout({
         <div className="container flex h-full items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
             <BrainCircuitIcon className="size-8 text-primary" />
-            <span className="text-xl font-bold">HireCraft</span>
+            <span className="text-xl font-bold">CareerLens</span>
           </Link>
           <ThemeToggle />
         </div>

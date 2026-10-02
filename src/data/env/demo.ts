@@ -6,6 +6,6 @@ export const DEMO_USER_ID = "demo-user"
 export const DEMO_USER = {
   id: DEMO_USER_ID,
   name: "Demo User",
-  email: "demo@hirecraft.app",
+  email: "demo@careerlens.app",
   imageUrl: "",
 } as const
